@@ -17,6 +17,10 @@ int main() {
     // Exibição dos Dados das Cartas:
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
-
+    //Entranda das variaveis;
+        int turistico1, turistico2;
+        int populacao1, populacao2;
+        float pib1, pib2, area1, area2;
+        double densidade1, densidade2, percapita1, percapita2;
     return 0;
 }
