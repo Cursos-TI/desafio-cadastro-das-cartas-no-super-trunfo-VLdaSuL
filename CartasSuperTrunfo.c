@@ -24,6 +24,7 @@ int main() {
         float pib1, pib2, area1, area2;
         char estado1[15], estado2[15], codigo1[5], codigo2[5]; 
         char cidade1[15], cidade2[15];
+        double densidade1, densidade2, percapita1, percapita2;
 
 
         //Cadastrando primeira carta;
